@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    max-width: 500vw;
+}
+
+
+.text-center {
+    text-align: center!important;
+    padding: 10px 100px;
+}
+
+.button-container {
+    width: 75%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button-container button{
+    width: 47%;
+    margin: 5px;
+}
